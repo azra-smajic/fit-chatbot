@@ -1,0 +1,45 @@
+{
+    "texts": [
+        "fakultet informacijskih tehnologija fit je članica javnog univerziteta",
+        "osnovan je 1997 godine kao dvogodišnji studij informatike",
+        "fit organizuje bachelor i master studij u oblasti informacijskih tehnologija"
+    ],
+    "sequences": [
+        [
+            6,
+            1,
+            2,
+            3,
+            4,
+            7,
+            8,
+            9,
+            0,
+            0
+        ],
+        [
+            10,
+            4,
+            11,
+            12,
+            13,
+            14,
+            5,
+            15,
+            0,
+            0
+        ],
+        [
+            3,
+            16,
+            17,
+            18,
+            19,
+            5,
+            20,
+            21,
+            1,
+            2
+        ]
+    ]
+}
